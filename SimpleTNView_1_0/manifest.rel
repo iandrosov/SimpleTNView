@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">SimpleTNView_1_0</value>
+  <value name="version">1.0</value>
+  <value name="build"></value>
+  <value name="patch_nums"></value>
+  <value name="description"></value>
+  <value name="target_pkg_version">1.0</value>
+  <value name="jvm_version">1.4.2</value>
+  <value name="source_server_version">6.1</value>
+  <value name="target_server_version">6.1</value>
+  <value name="time">2006-12-04 18:38:50.971 JST</value>
+  <value name="type">full</value>
+  <value name="target_pkg_name">SimpleTNView</value>
+  <value name="publisher">vfjpisyb48d006a.mltest</value>
+  <array name="files_to_delete" type="value" depth="1">
+  </array>
+</Values>

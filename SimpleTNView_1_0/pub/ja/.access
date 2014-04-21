@@ -1,0 +1,43 @@
+.access						Administrators
+webMethods.js.txt 			Anonymous
+menu.js.txt					Anonymous
+webMethods.css 				Anonymous
+doc/onlineHelp/webM_Styles.css	Anonymous
+config-customPages.dsp		TNAdministrators
+config-groupDetail.dsp		TNAdministrators
+config-groups.dsp			TNAdministrators
+config-tnpartners.dsp		TNAdministrators
+config-userDetail.dsp		TNAdministrators
+config-users.dsp			TNAdministrators
+config-userStatus.dsp		TNAdministrators
+doc/wMTN_WebMgrGuide.pdf	TNAdministrators
+doc/onlineHelp/AdminHelp.htm	TNAdministrators
+about.dsp					TNPartners
+calendar.dsp 				TNPartners
+config-general.dsp			TNPartners
+index.dsp					TNPartners
+index.html					TNPartners
+menu.dsp					TNPartners
+RemoveAlert.dsp				TNPartners
+selectProfile.dsp			TNPartners
+sendDoc.dsp					TNPartners
+sendDocOtherTN.dsp			TNPartners
+sendInfo.dsp				TNPartners
+taskQuery.dsp				TNPartners
+taskQueryDetail.dsp			TNPartners
+top.dsp						TNPartners
+transactionAnalysis.dsp		TNPartners
+ViewDocActivities.dsp 		TNPartners
+ViewDocContents.dsp			TNPartners
+ViewDocDetail.dsp 			TNPartners
+ViewDocs.dsp 				TNPartners
+ViewDocTasks.dsp 			TNPartners
+ViewOneTaskPage.dsp			TNPartners
+ViewProfile.dsp 			TNPartners
+welcome_main.html 			TNPartners
+doc/onlineHelp/PartnerHelp.htm	TNPartners
+settings-tnProperties.dsp	TNAdministrators
+
+
+
+
